@@ -1,0 +1,38 @@
+[
+    {
+        "tipo":"semillas",
+    "precio":2160,
+    "descripcion":"Local con amplia experiencia.Mercado Lider PLATINUM. Tienda.La respuesta a tu consulta es inmediata. Te asesoramos en lo que necesites.Ubicados en Belgrano, CABA.",
+    "imagen":"img/semilla1.png",
+    "nombre":"Semillas De Menta Piperita Para Huerta Cultivo Hortícola",
+    "link":"https://articulo.mercadolibre.com.ar/MLA-1262533497-semillas-de-menta-piperita-para-huerta-cultivo-horticola-_JM?pdp_filters=official_store%3A52379#polycard_client%3Drecommendations_recoview-selleritems-eshops%26reco_backend%3Dmachinalis-seller-items-pdp%26reco_client%3Drecoview-selleritems-eshops%26reco_item_pos%3D0%26reco_backend_type%3Dlow_level%26reco_id%3D94f07573-5932-44c0-83b6-5ddbee98b048%26tracking_id%3Df091e997-4f85-4903-b89d-29b20f1e0eec%26source%3Deshops%26seller_id%3D213435603%26category_id%3DMLA11045",
+    "favoritos":false
+    },
+    {
+    "tipo":"tierra",
+    "tamano":"10 litros",
+    "descripcion":" Ideal para una amplia gama de cultivos y adaptable a distintos tipos de contenedores, facilitando su uso en diversas etapas de desarrollo. Apto para siembra y repique.",
+    "precio":7100,
+    "nombre":"Sustrato Profesional Eden Tierra Fértil Cultivo",
+    "link":"https://www.mercadolibre.com.ar/sustrato-profesional-eden-10-litros-tierra-fertil-cultivo/p/MLA32622699?pdp_filters=item_id:MLA1424632549#is_advertising=true&searchVariation=MLA32622699&position=1&search_layout=grid&type=pad&tracking_id=d3b50d34-2e76-4ad3-a6f7-ee896ec2696a&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=1&ad_click_id=NDdhMWJjMjYtMzZjYi00NmUxLTg5ZmItNjY4MDRkYjUzMDY3",
+    "imagen":"img/tierra2.png",
+    "favoritos":false
+    },
+    {"tipo":"tierra",
+    "tamano":"80 litros",
+    "descripcion":"EDEN - Queens paradise es un sustrato de uso profesional, que ofrece condiciones óptimas de siembra y/o trasplante, por su excelente aireación, retención de agua, reacción (pH) y Ce.",
+    "precio":22612,
+    "nombre":"GrowMix Profesional terra fértil multipro",
+    "link":"https://www.mercadolibre.com.ar/growmix-profesional-terra-fertil-multipro-80l/p/MLA32490736#polycard_client=search-nordic&searchVariation=MLA32490736&position=4&search_layout=grid&type=product&tracking_id=3de9afde-49a9-4813-b6d0-f208dfb4c921&wid=MLA1411082651&sid=search",
+    "imagen":"img/tierra1.png",
+    "favoritos":false
+    },
+    {"tipo":"maceta",
+    "tamano":"40 cm x 40 cm x 40 cm",
+    "precio":50635,
+    "descripcion":"- Construido en polietileno, material altamente resistente a la presión e impacto - Textura granallada - Diseño anatómico y minimalista Reforzada Más de 15 años de vida útil",
+    "imagen":"img/maceta2.png",
+    "nombre":"Maceta Plástica Grande Rotomoldeada Gota",
+    "link":"https://www.mercadolibre.com.ar/maceta-plastica-grande-rotomoldeada-gota-n-40-moderna-amalfi-color-negro/p/MLA34136239#polycard_client=search-nordic&searchVariation=MLA34136239&position=7&search_layout=grid&type=product&tracking_id=5926add9-2de1-4ae6-ba73-60e2b940e28b&wid=MLA1692742230&sid=search",
+    "favoritos":false
+    }]
